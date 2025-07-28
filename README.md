@@ -77,4 +77,5 @@ kmeans_clusters.png: Saved image of customer clusters
 📬 Connect
 
 Feel free to explore the project, give feedback, or connect for collaboration!
+https://www.linkedin.com/in/bhanu-tavva-880030367/
 
